@@ -1,4 +1,3 @@
-# MEV-Frontrunning-Attack
 
 # What the F**K is Front-Running Attack?
 
